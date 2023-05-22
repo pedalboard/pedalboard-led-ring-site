@@ -1,0 +1,11 @@
+ERC report (Mon May 22 19:36:46 2023, Encoding UTF8)
+
+***** Sheet /
+[lib_symbol_issues]: The current configuration does not include the library 'PCM_Capacitor_AKL'
+    ; Severity: warning
+    @(210.8200 mm, 39.3700 mm): Symbol C1 [C_Bipolar_SMD_D5.0mm_H5.4mm]
+[lib_symbol_issues]: The current configuration does not include the library 'PCM_Resistor_AKL'
+    ; Severity: warning
+    @(91.4400 mm, 143.5100 mm): Symbol R1 [R_0805]
+
+ ** ERC messages: 2  Errors 0  Warnings 2

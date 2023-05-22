@@ -1,0 +1,6 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","1uF","C_Elec_5x5.4",13.4000,1.0000,0.0000,bottom
+"C2","100nF","C_0504_1310Metric_Pad0.83x1.28mm_HandSolder",19.4000,4.6000,-90.0000,bottom
+"J1","Conn_02x03","PinHeader_2x03_P2.54mm_Vertical_SMD",15.6000,-8.0000,-90.0000,bottom
+"R1","5K1","R_0603",19.4000,7.4000,90.0000,bottom
+"U1","TLC5973","SOIC-8_3.9x4.9mm_P1.27mm",14.9000,7.2000,0.0000,bottom

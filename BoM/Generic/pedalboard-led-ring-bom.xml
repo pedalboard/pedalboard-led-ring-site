@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.2.1-36-g582732918d-dirty-deb11" Component_Groups="6" Component_Count="11 (11 SMD/ 0 THT)" Fitted_Components="11 (11 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="11" Schematic_Source="pedalboard-led-ring" Schematic_Revision="" Schematic_Date="2023-05-22_19-36-40" encoding="utf-8">
+	<group Row="1" Description="Unpolarized capacitor" Part="C" References="C2" Value="100nF" Footprint="C_0504_1310Metric_Pad0.83x1.28mm_HandSolder" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="2" Description="SMD Bipolar Electrolytic capacitor, Diameter 5.0mm, Heigth 5.4mm Alternate KiCad Library" Part="C_Bipolar_SMD_D5.0mm_H5.4mm" References="C1" Value="1uF" Footprint="C_Elec_5x5.4" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="3" Description="Triple LED RVB (Avago Technology)" Part="RGB-LED" References="D1 D2 D3 D4 D5 D6" Value="RGB-LED" Footprint="LED_RGB" Quantity_Per_PCB="6" Status=" " Datasheet="https://media.digikey.com/pdf/Data%20Sheets/Harvatek%20PDFs/B3803FCH-20C001112U1930%20V1.3.pdf"/>
+	<group Row="4" Description="Generic connector, double row, 02x03, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_02x03" References="J1" Value="Conn_02x03" Footprint="PinHeader_2x03_P2.54mm_Vertical_SMD" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="5" Description="SMD 0805 Chip Resistor, European Symbol, Alternate KiCad Library" Part="R_0805" References="R1" Value="5K1" Footprint="R_0603" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="6" Description="3 Channel 12bit PWM constant currend LED Driver with single wire interface" Part="TLC5973" References="U1" Value="TLC5973" Footprint="SOIC-8_3.9x4.9mm_P1.27mm" Quantity_Per_PCB="1" Status=" " Datasheet="http://www.ti.com/lit/ds/symlink/tlc5973.pdf"/>
+</KiCad_BOM>
