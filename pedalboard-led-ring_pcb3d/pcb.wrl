@@ -6,6 +6,60 @@ Transform {
   scale 0.00254 0.00254 0.00254
   children [
 Transform {
+  rotation 0 0 1 0.523599
+  translation 34.6654 -22.0374 0.314961
+  scale 1 1 1
+  children [
+    Inline {
+      url "components/led.wrl"
+    } ]
+  }
+Transform {
+  rotation 0 0 1 4.71239
+  translation 31.4961 -27.1654 0.314961
+  scale 1 1 1
+  children [
+    Inline {
+      url "components/led.wrl"
+    } ]
+  }
+Transform {
+  rotation 0 0 1 1.5708
+  translation 31.4961 -20.0787 0.314961
+  scale 1 1 1
+  children [
+    Inline {
+      url "components/led.wrl"
+    } ]
+  }
+Transform {
+  rotation 0 0 1 3.66519
+  translation 28.3268 -25.2067 0.314961
+  scale 1 1 1
+  children [
+    Inline {
+      url "components/led.wrl"
+    } ]
+  }
+Transform {
+  rotation 0 0 1 2.61799
+  translation 28.3268 -22.0374 0.314961
+  scale 1 1 1
+  children [
+    Inline {
+      url "components/led.wrl"
+    } ]
+  }
+Transform {
+  rotation 0 0 -1 0.523599
+  translation 34.6654 -25.2067 0.314961
+  scale 1 1 1
+  children [
+    Inline {
+      url "components/led.wrl"
+    } ]
+  }
+Transform {
   rotation 1 0 0 3.14159
   translation 37.3622 -20.7874 -0.314961
   scale 1 1 1
