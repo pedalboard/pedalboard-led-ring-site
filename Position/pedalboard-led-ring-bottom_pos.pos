@@ -1,16 +1,16 @@
-### Module positions - created on Fri 26 May 2023 14:26:21  ###
+### Module positions - created on Fri 26 May 2023 17:24:48  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : bottom
-# Ref   Val               Package                                       PosX      PosY       Rot         Side  
-C1      2.2uF_0603_25V    C_1206_3216Metric_Pad1.33x1.80mm_HandSolder   11.9000   0.4000     0.0000      bottom
-C2      100nF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   17.8000   2.5000     -90.0000    bottom
-C3      10uF_0805_25V     C_1206_3216Metric_Pad1.33x1.80mm_HandSolder   10.0000   -11.5000   90.0000     bottom
-C4      0.22uF_0603_25V   C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   3.0000    -9.3000    180.0000    bottom
-J1      Conn_02x03        PinSocket_2x03_P2.54mm_Vertical_SMD           15.6000   -8.0000    -90.0000    bottom
-L1      10uH              IND_LQH32CN150K53L                            8.2500    -6.6000    0.0000      bottom
-R1      5K1               R_0603                                        19.8000   7.4000     90.0000     bottom
-R2      3.4M              R_0603                                        4.0000    -12.0000   -90.0000    bottom
-U1      TLC5973           SOIC-8_3.9x4.9mm_P1.27mm                      14.9000   7.2000     0.0000      bottom
-U2      LT3494AEDDBPBF    DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm           6.4000    -12.0000   180.0000    bottom
+# Ref   Val              Package                                       PosX      PosY       Rot         Side  
+C1      2.2uF_0603_25V   C_1206_3216Metric_Pad1.33x1.80mm_HandSolder   11.9000   0.4000     0.0000      bottom
+C2      330nF            C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   17.8000   2.5000     -90.0000    bottom
+C3      10uF_0805_25V    C_1206_3216Metric_Pad1.33x1.80mm_HandSolder   10.0000   -11.1000   90.0000     bottom
+C4      330nF            C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   2.9000    -9.3000    180.0000    bottom
+J1      Conn_02x03       PinSocket_2x03_P2.54mm_Vertical_SMD           16.5000   -8.0000    -90.0000    bottom
+L1      10uH             IND_LQH32CN150K53L                            7.9000    -7.1000    0.0000      bottom
+R1      5K1              R_0603                                        19.8000   7.4000     90.0000     bottom
+R2      3.4M             R_0603                                        4.0000    -12.0000   -90.0000    bottom
+U1      TLC5973          SOIC-8_3.9x4.9mm_P1.27mm                      14.9000   7.2000     0.0000      bottom
+U2      LT3494AEDDBPBF   DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm           6.4000    -12.0000   180.0000    bottom
 ## End
