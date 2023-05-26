@@ -1,4 +1,4 @@
-ERC report (Fri May 26 10:47:18 2023, Encoding UTF8)
+ERC report (Fri May 26 11:18:06 2023, Encoding UTF8)
 
 ***** Sheet /
 [lib_symbol_issues]: The current configuration does not include the library 'PCM_4ms_Capacitor'
