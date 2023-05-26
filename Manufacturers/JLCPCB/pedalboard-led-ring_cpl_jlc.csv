@@ -1,8 +1,8 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C1","2.2uF_0603_25V","C_1206_3216Metric_Pad1.33x1.80mm_HandSolder",11.9000,0.4000,0.0000,bottom
-"C2","100nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",17.8000,2.5000,-90.0000,bottom
+"C2","330nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",17.8000,2.5000,-90.0000,bottom
 "C3","10uF_0805_25V","C_1206_3216Metric_Pad1.33x1.80mm_HandSolder",10.0000,-11.5000,90.0000,bottom
-"C4","0.22uF_0603_25V","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",3.0000,-9.3000,180.0000,bottom
+"C4","330nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",3.0000,-9.3000,180.0000,bottom
 "D1","RGB-LED","LED_RGB",8.0500,-4.0250,-120.0000,top
 "D2","RGB-LED","LED_RGB",0.0000,-9.0000,180.0000,top
 "D3","RGB-LED","LED_RGB",-8.0500,-4.0250,120.0000,top
