@@ -457,55 +457,47 @@ DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_0"
 PART "0.22uF_0603_25V"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 
-DEVICE "DEV_Library:LED_RGB_4"
-PART "RGB-LED"
-PACKAGE "Library:LED_RGB"
-
-DEVICE "DEV_Library:LED_RGB_3"
-PART "RGB-LED"
-PACKAGE "Library:LED_RGB"
-
-DEVICE "DEV_PCM_4ms_Resistor:R_0603_0"
-PART "5K1"
-PACKAGE "PCM_4ms_Resistor:R_0603"
-
-DEVICE "DEV_Library:LED_RGB_2"
-PART "RGB-LED"
-PACKAGE "Library:LED_RGB"
-
 DEVICE "DEV_PCM_4ms_Resistor:R_0603"
 PART "3.4M"
 PACKAGE "PCM_4ms_Resistor:R_0603"
-
-DEVICE "DEV_Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical_SMD"
-PART "Conn_02x03"
-PACKAGE "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical_SMD"
 
 DEVICE "DEV_Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 PART "2.2uF_0603_25V"
 PACKAGE "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 
-DEVICE "DEV_Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder_0"
-PART "10uF_0805_25V"
-PACKAGE "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-
-DEVICE "DEV_Library:LED_RGB"
+DEVICE "DEV_Library:LED_RGB_0"
 PART "RGB-LED"
 PACKAGE "Library:LED_RGB"
-
-DEVICE "DEV_Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-PART "TLC5973"
-PACKAGE "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 
 DEVICE "DEV_Library:IND_LQH32CN150K53L"
 PART "10uH"
 PACKAGE "Library:IND_LQH32CN150K53L"
 
+DEVICE "DEV_Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder_0"
+PART "10uF_0805_25V"
+PACKAGE "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+
+DEVICE "DEV_Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+PART "TLC5973"
+PACKAGE "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+
+DEVICE "DEV_Library:LED_RGB"
+PART "RGB-LED"
+PACKAGE "Library:LED_RGB"
+
+DEVICE "DEV_Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical_SMD"
+PART "Conn_02x03"
+PACKAGE "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical_SMD"
+
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 PART "100nF"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 
-DEVICE "DEV_Library:LED_RGB_1"
+DEVICE "DEV_Library:LED_RGB_4"
+PART "RGB-LED"
+PACKAGE "Library:LED_RGB"
+
+DEVICE "DEV_Library:LED_RGB_2"
 PART "RGB-LED"
 PACKAGE "Library:LED_RGB"
 
@@ -513,7 +505,15 @@ DEVICE "DEV_Package_DFN_QFN:DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm"
 PART "LT3494AEDDBPBF"
 PACKAGE "Package_DFN_QFN:DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm"
 
-DEVICE "DEV_Library:LED_RGB_0"
+DEVICE "DEV_Library:LED_RGB_1"
+PART "RGB-LED"
+PACKAGE "Library:LED_RGB"
+
+DEVICE "DEV_PCM_4ms_Resistor:R_0603_0"
+PART "5K1"
+PACKAGE "PCM_4ms_Resistor:R_0603"
+
+DEVICE "DEV_Library:LED_RGB_3"
 PART "RGB-LED"
 PACKAGE "Library:LED_RGB"
 $ENDDEVICES
