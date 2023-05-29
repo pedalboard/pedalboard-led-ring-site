@@ -1,4 +1,4 @@
-ERC report (Sun May 28 08:21:32 2023, Encoding UTF8)
+ERC report (Mon May 29 10:56:04 2023, Encoding UTF8)
 
 ***** Sheet /
 [lib_symbol_issues]: The current configuration does not include the library 'PCM_Resistor_AKL'

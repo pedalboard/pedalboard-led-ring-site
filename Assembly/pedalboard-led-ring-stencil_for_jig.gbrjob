@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.2.1-36-g582732918d-dirty-deb11"
     },
-    "CreationDate": "2023-05-28T08:26:49+00:00"
+    "CreationDate": "2023-05-29T11:00:47+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "stencil",
       "GUID": "7374656e-6369-46c2-9e6b-696361645f70",
-      "Revision": "rev?"
+      "Revision": "1.0.0"
     },
     "Size": {
       "X": 36.1,

@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.2.1-36-g582732918d-dirty-deb11"
     },
-    "CreationDate": "2023-05-28T08:23:43+00:00"
+    "CreationDate": "2023-05-29T10:57:50+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "pedalboard-led-ring",
       "GUID": "70656461-6c62-46f6-9172-642d6c65642d",
-      "Revision": "rev?"
+      "Revision": "1.0.0"
     },
     "Size": {
       "X": 36.1,
