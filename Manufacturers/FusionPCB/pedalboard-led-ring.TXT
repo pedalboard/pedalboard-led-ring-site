@@ -1,8 +1,8 @@
 M48
-; DRILL file {KiCad 7.0.2.1-36-g582732918d-dirty-deb11} date Mon May 29 10:57:50 2023
+; DRILL file {KiCad 7.0.5.1-1-g8f565ef7f0-dirty-deb11} date Wed May 31 21:04:00 2023
 ; FORMAT={-:-/ absolute / metric / decimal}
-; #@! TF.CreationDate,2023-05-29T10:57:50+00:00
-; #@! TF.GenerationSoftware,Kicad,Pcbnew,7.0.2.1-36-g582732918d-dirty-deb11
+; #@! TF.CreationDate,2023-05-31T21:04:00+00:00
+; #@! TF.GenerationSoftware,Kicad,Pcbnew,7.0.5.1-1-g8f565ef7f0-dirty-deb11
 ; #@! TF.FileFunction,MixedPlating,1,2
 FMAT,2
 METRIC
@@ -12,23 +12,25 @@ T1C0.400
 G90
 G05
 T1
-X1.25Y-10.8
-X3.0Y-11.2
-X6.4Y-9.75
-X7.9Y-9.75
-X9.5Y-1.4
-X10.5Y-1.4
-X10.8Y9.15
-X10.8Y7.8
-X10.8Y6.6
-X11.8Y-9.5
-X12.4Y4.5
-X13.45Y1.95
-X16.5Y-8.4
-X16.5Y-12.55
-X16.55Y1.5
-X19.04Y-12.54
-X19.2Y4.8
-X21.05Y8.25
+X-11.0Y-0.4
+X-9.726Y5.154
+X-9.326Y-5.846
+X-5.846Y9.326
+X-5.154Y-9.726
+X-0.4Y11.0
+X0.4Y-11.0
+X5.154Y9.726
+X5.846Y-9.326
+X8.1Y-3.1
+X9.326Y5.846
+X9.5Y-1.1
+X9.726Y-5.154
+X11.0Y0.4
+X12.0Y-1.2
+X12.0Y-5.0
+X13.0Y-1.2
+X13.0Y-2.6
+X13.0Y-3.8
+X13.0Y-5.0
 T0
 M30
