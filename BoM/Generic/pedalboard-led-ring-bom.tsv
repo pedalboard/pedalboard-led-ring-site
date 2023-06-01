@@ -1,6 +1,6 @@
 Row	Description	Part	References	Value	Footprint	Quantity Per PCB	Status	Datasheet
 1	Unpolarized capacitor	C	C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11 C12	1uF	C_0201_0603Metric_Pad0.64x0.40mm_HandSolder	12	 	~
-2	RGB LED with integrated controller	SK6812MINI	D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12	SK6812MINI	LED_SK6812_EC15_1.5x1.5mm	12	 	https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+2	RGB LED with integrated controller	SK6812MINI	D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12	SK6812MINI	LED_SK6812_EC15_1.5x1.5mm	12	 	https://cdn-shop.adafruit.com/product-files/4492/Datasheet.pdf
 3	Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)	Conn_02x02_Odd_Even	J1	Conn_02x02_Odd_Even	PinSocket_2x02_P2.00mm_Vertical_SMD	1	 	~
 
 
