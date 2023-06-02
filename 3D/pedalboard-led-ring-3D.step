@@ -1,7 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('KiCad electronic assembly'),'2;1');
-FILE_NAME('pedalboard-led-ring-3D.step','2023-06-01T06:07:14',('Pcbnew')
+FILE_NAME('pedalboard-led-ring-3D.step','2023-06-02T11:35:17',('Pcbnew')
   ,('Kicad'),'Open CASCADE STEP processor 7.5','KiCad to STEP converter'
   ,'Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));
@@ -24731,7 +24731,7 @@ REPRESENTATION_CONTEXT('Context #1',
 #21207 = PRODUCT_DEFINITION_SHAPE('','',#21208);
 #21208 = PRODUCT_DEFINITION('design','',#21209,#21212);
 #21209 = PRODUCT_DEFINITION_FORMATION('','',#21210);
-#21210 = PRODUCT('tmpdspv54sa PCB','tmpdspv54sa PCB','',(#21211));
+#21210 = PRODUCT('tmp2cj605dl PCB','tmp2cj605dl PCB','',(#21211));
 #21211 = PRODUCT_CONTEXT('',#2,'mechanical');
 #21212 = PRODUCT_DEFINITION_CONTEXT('part definition',#2,'design');
 #21213 = CONTEXT_DEPENDENT_SHAPE_REPRESENTATION(#21214,#21216);
