@@ -69,7 +69,7 @@ endobj
 >>
 endobj
 57 0 obj
-<</S /GoTo /D [33 0 R /FitR 245 416 258 404]
+<</S /GoTo /D [33 0 R /FitR 246 417 258 405]
 >>
 endobj
 59 0 obj
@@ -255,7 +255,7 @@ endobj
 15 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [245.867 404.305 258.627 416.557]
+   /Rect [246.034 405.035 258.795 417.287]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C12', cReturn: null }, { cName: 'Value = 1uF', cReturn: null }, { cName: 'Sheetfile = pedalboard-led-ring.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder', cReturn: null }, { cName: 'Description = Capacitor SMD 0201 \\u00280603 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.vishay.com/docs/20052/crcw0201e3.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -400,7 +400,7 @@ endobj
 95 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:20230602134507)
+/CreationDate (D:20230602143644)
 /Creator (PCBNEW)
 /Title (pedalboard-led-ring-B_Mask.pdf)
 >>

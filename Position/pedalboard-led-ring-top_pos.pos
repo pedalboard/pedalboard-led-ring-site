@@ -1,4 +1,4 @@
-### Module positions - created on Fri 02 Jun 2023 13:45:07  ###
+### Module positions - created on Fri 02 Jun 2023 14:36:44  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -14,7 +14,7 @@ C8      1uF          C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   -8.9634    -5
 C9      1uF          C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   -5.1750    -8.9634    150.0000    top   
 C10     1uF          C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   0.0000     -10.3500   180.0000    top   
 C11     1uF          C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   5.1750     -8.9634    -150.0000   top   
-C12     1uF          C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   8.9634     -5.1750    -120.0000   top   
+C12     1uF          C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   9.0700     -5.0000    60.0000     top   
 D1      SK6812MINI   LED_SK6812_EC15_1.5x1.5mm                     9.0000     0.0000     0.0000      top   
 D2      SK6812MINI   LED_SK6812_EC15_1.5x1.5mm                     7.7942     4.5000     30.0000     top   
 D3      SK6812MINI   LED_SK6812_EC15_1.5x1.5mm                     4.5000     7.7942     60.0000     top   
