@@ -957,7 +957,15 @@
 </g>
 </g> 
 </g><g id="substrate-silk" style="fill:#d5dce4; stroke:#d5dce4;" mask="url(#pads-mask-silkscreen)"><g style="fill-opacity: 0.0;stroke-width: 0.1000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
-<path d="M85.6611 68.1054 L85.3361 67.5424 "/>
+<text x="80.0000" y="60.0000" textLength="2.0500" font-size="1.3333" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">H4</text>
+<g class="stroked-text"><desc>H4</desc>
+<path d="M79.2381 59.9574 L79.2381 58.9574 "/>
+<path d="M79.2381 59.4336 L79.8095 59.4336 "/>
+<path d="M79.8095 59.9574 L79.8095 58.9574 "/>
+<path d="M80.7143 59.2908 L80.7143 59.9574 "/>
+<path d="M80.4762 58.9098 L80.2381 59.6241 "/>
+<path d="M80.2381 59.6241 L80.8571 59.6241 "/>
+</g><path d="M85.6611 68.1054 L85.3361 67.5424 "/>
 <path d="M85.0982 68.4304 L85.6611 68.1054 "/>
 <path d="M89.8500 59.1500 L89.2000 59.1500 "/>
 <path d="M89.8500 59.8000 L89.8500 59.1500 "/>
