@@ -42,6 +42,14 @@ Transform {
     } ]
   }
 Transform {
+  translation 1.25984 -1.15671 -2.28346
+  scale 1 1 1
+  children [
+    Inline {
+      url "shapes3D/actuator-assembly.wrl"
+    } ]
+  }
+Transform {
   rotation 0 0 1 2.61799
   translation -0.777559 -4.68559 0.314961
   scale 1 1 1
