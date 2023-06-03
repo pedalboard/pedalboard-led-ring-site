@@ -23,6 +23,4 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "D10","SK6812MINI","LED_SK6812_EC15_1.5x1.5mm",0.0000,-9.0000,-90.0000,top
 "D11","SK6812MINI","LED_SK6812_EC15_1.5x1.5mm",4.5000,-7.7942,-60.0000,top
 "D12","SK6812MINI","LED_SK6812_EC15_1.5x1.5mm",7.7942,-4.5000,-30.0000,top
-"J1","middle","PinSocket_2x02_P2.00mm_Vertical_SMD",10.0000,0.0000,90.0000,bottom
-"J2","edge","PinSocket_2x02_P2.00mm_Vertical_SMD",10.0000,-10.0000,0.0000,bottom
 "R1","330","R_0201_0603Metric_Pad0.64x0.40mm_HandSolder",8.9100,-1.6800,180.0000,top
