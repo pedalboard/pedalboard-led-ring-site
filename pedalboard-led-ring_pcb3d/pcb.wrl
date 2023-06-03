@@ -130,6 +130,24 @@ Transform {
     } ]
   }
 Transform {
+  rotation 0.707107 0.707107 4.32978e-17 3.14159
+  translation 35.4331 -23.622 -0.314961
+  scale 1 1 1
+  children [
+    Inline {
+      url "components/PinSocket_2x02_P2.00mm_Vertical_SMD.wrl"
+    } ]
+  }
+Transform {
+  rotation 1 0 0 3.14159
+  translation 35.4331 -27.5591 -0.314961
+  scale 1 1 1
+  children [
+    Inline {
+      url "components/PinSocket_2x02_P2.00mm_Vertical_SMD.wrl"
+    } ]
+  }
+Transform {
   children [
     Group {
       children [

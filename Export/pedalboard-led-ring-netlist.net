@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-led-ring/pedalboard-led-ring/pedalboard-led-ring.kicad_sch")
-    (date "Sat Jun  3 12:20:45 2023")
+    (date "Sat Jun  3 12:27:29 2023")
     (tool "Eeschema 7.0.5.1-1-g8f565ef7f0-dirty-deb11")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
