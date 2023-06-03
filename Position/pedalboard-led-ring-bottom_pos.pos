@@ -1,8 +1,8 @@
-### Module positions - created on Sat 03 Jun 2023 11:43:34  ###
+### Module positions - created on Sat 03 Jun 2023 12:22:59  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : bottom
-# Ref   Val          Package                                       PosX       PosY       Rot         Side  
-J1      middle       PinSocket_2x02_P2.00mm_Vertical_SMD           10.0000    0.0000     90.0000     bottom
-J2      edge         PinSocket_2x02_P2.00mm_Vertical_SMD           10.0000    -10.0000   0.0000      bottom
+# Ref   Val           Package                                       PosX       PosY       Rot         Side  
+J1      middle        PinSocket_2x02_P2.00mm_Vertical_SMD           10.0000    0.0000     90.0000     bottom
+J2      edge          PinSocket_2x02_P2.00mm_Vertical_SMD           10.0000    -10.0000   0.0000      bottom
 ## End
