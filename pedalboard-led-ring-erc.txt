@@ -1,23 +1,5 @@
-ERC report (Sat Jun  3 20:06:19 2023, Encoding UTF8)
+ERC report (Sat Jun  3 21:31:20 2023, Encoding UTF8)
 
 ***** Sheet /
-[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
-    ; Severity: error (excluded)
-    @(111.7600 mm, 43.1800 mm): Symbol D5 Pin 4 [VDD, Power input, Line]
-[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
-    ; Severity: error (excluded)
-    @(76.2000 mm, 43.1800 mm): Symbol D3 Pin 4 [VDD, Power input, Line]
-[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
-    ; Severity: error (excluded)
-    @(76.2000 mm, 58.4200 mm): Symbol D3 Pin 2 [VSS, Power input, Line]
-[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
-    ; Severity: error (excluded)
-    @(129.5400 mm, 58.4200 mm): Symbol D6 Pin 2 [VSS, Power input, Line]
-[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
-    ; Severity: error (excluded)
-    @(111.7600 mm, 58.4200 mm): Symbol D5 Pin 2 [VSS, Power input, Line]
-[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
-    ; Severity: error (excluded)
-    @(165.1000 mm, 43.1800 mm): Symbol D8 Pin 4 [VDD, Power input, Line]
 
- ** ERC messages: 6  Errors 6  Warnings 0
+ ** ERC messages: 0  Errors 0  Warnings 0
