@@ -144,11 +144,11 @@ endobj
 >>
 endobj
 99 0 obj
-<</S /GoTo /D [37 0 R /FitR 243 444 262 410]
+<</S /GoTo /D [37 0 R /FitR 241 444 260 410]
 >>
 endobj
 101 0 obj
-<</S /GoTo /D [37 0 R /FitR 232 414 260 390]
+<</S /GoTo /D [37 0 R /FitR 232 410 260 386]
 >>
 endobj
 103 0 obj
@@ -422,7 +422,7 @@ endobj
 34 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [243.248 410.973 262.276 444.903]
+   /Rect [241.831 410.973 260.858 444.903]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J1', cReturn: null }, { cName: 'Value = middle', cReturn: null }, { cName: 'Sheetfile = pedalboard-led-ring.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/en/products/detail/gct/BF100-04-A-D-1-0640-L-C/16396866', cReturn: 'https://www.digikey.ch/en/products/detail/gct/BF100-04-A-D-1-0640-L-C/16396866' }, { cName: 'dnp = ', cReturn: null }, { cName: 'ki_description = Generic connector, double row, 02x02, odd/even pin numbering scheme \\u0028row 1 odd numbers, row 2 even numbers\\u0029, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029', cReturn: null }, { cName: 'ki_keywords = connector', cReturn: null }, { cName: 'Footprint = Connector_PinSocket_2.00mm:PinSocket_2x02_P2.00mm_Vertical_SMD', cReturn: null }, { cName: 'Description = surface-mounted straight socket strip, 2x02, 2.00mm pitch, double cols \\u0028from Kicad 4.0.7\\u0029, script generated', cReturn: null }, { cName: 'Keywords = Surface mounted socket strip SMD 2x02 2.00mm double row', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -430,7 +430,7 @@ endobj
 35 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [232.37 390.67 260.858 414.41]
+   /Rect [232.37 386.418 260.858 410.158]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J2', cReturn: null }, { cName: 'Value = edge', cReturn: null }, { cName: 'Sheetfile = pedalboard-led-ring.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/en/products/detail/gct/BF100-04-A-D-1-0640-L-C/16396866', cReturn: 'https://www.digikey.ch/en/products/detail/gct/BF100-04-A-D-1-0640-L-C/16396866' }, { cName: 'dnp = ', cReturn: null }, { cName: 'ki_description = Generic connector, double row, 02x02, odd/even pin numbering scheme \\u0028row 1 odd numbers, row 2 even numbers\\u0029, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029', cReturn: null }, { cName: 'ki_keywords = connector', cReturn: null }, { cName: 'Footprint = Connector_PinSocket_2.00mm:PinSocket_2x02_P2.00mm_Vertical_SMD', cReturn: null }, { cName: 'Description = surface-mounted straight socket strip, 2x02, 2.00mm pitch, double cols \\u0028from Kicad 4.0.7\\u0029, script generated', cReturn: null }, { cName: 'Keywords = Surface mounted socket strip SMD 2x02 2.00mm double row', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -447,7 +447,7 @@ endobj
 107 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:20230603191820)
+/CreationDate (D:20230603200118)
 /Creator (PCBNEW)
 /Title (pedalboard-led-ring-User_Comments.pdf)
 >>
@@ -736,7 +736,7 @@ endobj
 xref
 0 110
 0000000000 65535 f 
-0000046670 00000 n 
+0000046672 00000 n 
 0000003259 00000 n 
 0000000015 00000 n 
 0000000336 00000 n 
@@ -774,79 +774,79 @@ xref
 0000000355 00000 n 
 0000000585 00000 n 
 0000000770 00000 n 
-0000049981 00000 n 
-0000049861 00000 n 
+0000049983 00000 n 
+0000049863 00000 n 
 0000000817 00000 n 
-0000047830 00000 n 
+0000047832 00000 n 
 0000000881 00000 n 
-0000048219 00000 n 
+0000048221 00000 n 
 0000000945 00000 n 
-0000048024 00000 n 
+0000048026 00000 n 
 0000001009 00000 n 
-0000048609 00000 n 
+0000048611 00000 n 
 0000001073 00000 n 
-0000048317 00000 n 
+0000048319 00000 n 
 0000001137 00000 n 
-0000048997 00000 n 
+0000048999 00000 n 
 0000001201 00000 n 
-0000048121 00000 n 
+0000048123 00000 n 
 0000001265 00000 n 
-0000047052 00000 n 
+0000047054 00000 n 
 0000001329 00000 n 
-0000048900 00000 n 
+0000048902 00000 n 
 0000001393 00000 n 
-0000048803 00000 n 
+0000048805 00000 n 
 0000001457 00000 n 
-0000047150 00000 n 
+0000047152 00000 n 
 0000001521 00000 n 
-0000049288 00000 n 
+0000049290 00000 n 
 0000001585 00000 n 
-0000047636 00000 n 
+0000047638 00000 n 
 0000001649 00000 n 
-0000049482 00000 n 
+0000049484 00000 n 
 0000001713 00000 n 
-0000049191 00000 n 
+0000049193 00000 n 
 0000001777 00000 n 
-0000047927 00000 n 
+0000047929 00000 n 
 0000001841 00000 n 
-0000047733 00000 n 
+0000047735 00000 n 
 0000001905 00000 n 
-0000046954 00000 n 
+0000046956 00000 n 
 0000001969 00000 n 
-0000047345 00000 n 
+0000047347 00000 n 
 0000002033 00000 n 
-0000047248 00000 n 
+0000047250 00000 n 
 0000002097 00000 n 
-0000047539 00000 n 
+0000047541 00000 n 
 0000002161 00000 n 
-0000048415 00000 n 
+0000048417 00000 n 
 0000002225 00000 n 
-0000046873 00000 n 
+0000046875 00000 n 
 0000002289 00000 n 
-0000048706 00000 n 
+0000048708 00000 n 
 0000002353 00000 n 
-0000049094 00000 n 
+0000049096 00000 n 
 0000002417 00000 n 
-0000048512 00000 n 
+0000048514 00000 n 
 0000002481 00000 n 
-0000049779 00000 n 
+0000049781 00000 n 
 0000002545 00000 n 
-0000049385 00000 n 
+0000049387 00000 n 
 0000002609 00000 n 
-0000047442 00000 n 
+0000047444 00000 n 
 0000002673 00000 n 
-0000049580 00000 n 
+0000049582 00000 n 
 0000002737 00000 n 
-0000049679 00000 n 
+0000049681 00000 n 
 0000002802 00000 n 
 0000002910 00000 n 
 0000003026 00000 n 
 0000003139 00000 n 
-0000046730 00000 n 
-0000050097 00000 n 
-0000050182 00000 n 
+0000046732 00000 n 
+0000050099 00000 n 
+0000050184 00000 n 
 trailer
 << /Size 110 /Root 109 0 R /Info 107 0 R >>
 startxref
-50312
+50314
 %%EOF
