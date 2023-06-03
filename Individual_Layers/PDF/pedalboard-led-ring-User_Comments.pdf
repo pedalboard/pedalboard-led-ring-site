@@ -32,7 +32,7 @@ endobj
 >>
 endobj
 43 0 obj
-<</S /GoTo /D [37 0 R /FitR 226 414 245 386]
+<</S /GoTo /D [37 0 R /FitR 226 414 244 386]
 >>
 endobj
 45 0 obj
@@ -198,7 +198,7 @@ endobj
 6 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [226.097 386.77 245.021 414.516]
+   /Rect [226.097 386.77 244.844 414.516]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = D11', cReturn: null }, { cName: 'Value = SK6812_EC15', cReturn: null }, { cName: 'Sheetfile = pedalboard-led-ring.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136', cReturn: 'https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136' }, { cName: 'ki_description = RGB LED with integrated controller', cReturn: null }, { cName: 'ki_keywords = RGB LED NeoPixel Mini addressable', cReturn: null }, { cName: 'Footprint = Library:LED_SK6812_EC15_1.5x1.5mm', cReturn: null }, { cName: 'Description = http://www.newstar-ledstrip.com/product/20181119172602110.pdf', cReturn: 'http://www.newstar-ledstrip.com/product/20181119172602110.pdf' }, { cName: 'Keywords = LED RGB NeoPixel', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -238,7 +238,7 @@ endobj
 11 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [219.862 384.812 231.803 414.599]
+   /Rect [219.862 384.812 231.917 414.599]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = D10', cReturn: null }, { cName: 'Value = SK6812_EC15', cReturn: null }, { cName: 'Sheetfile = pedalboard-led-ring.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136', cReturn: 'https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136' }, { cName: 'ki_description = RGB LED with integrated controller', cReturn: null }, { cName: 'ki_keywords = RGB LED NeoPixel Mini addressable', cReturn: null }, { cName: 'Footprint = Library:LED_SK6812_EC15_1.5x1.5mm', cReturn: null }, { cName: 'Description = http://www.newstar-ledstrip.com/product/20181119172602110.pdf', cReturn: 'http://www.newstar-ledstrip.com/product/20181119172602110.pdf' }, { cName: 'Keywords = LED RGB NeoPixel', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -447,7 +447,7 @@ endobj
 107 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:20230603200528)
+/CreationDate (D:20230603200839)
 /Creator (PCBNEW)
 /Title (pedalboard-led-ring-User_Comments.pdf)
 >>
