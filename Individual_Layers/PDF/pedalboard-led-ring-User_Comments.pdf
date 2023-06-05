@@ -144,7 +144,7 @@ endobj
 >>
 endobj
 99 0 obj
-<</S /GoTo /D [37 0 R /FitR 241 444 260 410]
+<</S /GoTo /D [37 0 R /FitR 243 444 262 410]
 >>
 endobj
 101 0 obj
@@ -422,7 +422,7 @@ endobj
 34 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [241.831 410.973 260.858 444.903]
+   /Rect [243.248 410.973 262.276 444.903]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J1', cReturn: null }, { cName: 'Value = middle', cReturn: null }, { cName: 'Sheetfile = pedalboard-led-ring.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/en/products/detail/gct/BF100-04-A-D-1-0640-L-C/16396866', cReturn: 'https://www.digikey.ch/en/products/detail/gct/BF100-04-A-D-1-0640-L-C/16396866' }, { cName: 'dnp = ', cReturn: null }, { cName: 'ki_description = Generic connector, double row, 02x02, odd/even pin numbering scheme \\u0028row 1 odd numbers, row 2 even numbers\\u0029, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029', cReturn: null }, { cName: 'ki_keywords = connector', cReturn: null }, { cName: 'Footprint = Connector_PinSocket_2.00mm:PinSocket_2x02_P2.00mm_Vertical_SMD', cReturn: null }, { cName: 'Description = surface-mounted straight socket strip, 2x02, 2.00mm pitch, double cols \\u0028from Kicad 4.0.7\\u0029, script generated', cReturn: null }, { cName: 'Keywords = Surface mounted socket strip SMD 2x02 2.00mm double row', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -447,7 +447,7 @@ endobj
 107 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:20230603213342)
+/CreationDate (D:20230605161048)
 /Creator (PCBNEW)
 /Title (pedalboard-led-ring-User_Comments.pdf)
 >>
