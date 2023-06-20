@@ -1,9 +1,9 @@
-### Module positions - created on Mon 05 Jun 2023 16:16:37  ###
+### Module positions - created on Tue 20 Jun 2023 15:25:10  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
 # Ref   Val           Package                                       PosX      PosY      Rot         Side  
-C1      1uF           C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   8.9400    1.3500    180.0000    top   
+C1      1uF           C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   9.1500    1.3500    0.0000      top   
 C2      1uF           C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   7.0673    5.6391    -150.0000   top   
 C3      1uF           C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   3.3009    8.4173    -120.0000   top   
 C4      1uF           C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   -1.3500   8.9400    -90.0000    top   
@@ -27,5 +27,7 @@ D9      SK6812_EC15   LED_SK6812_EC15_1.5x1.5mm                     -4.5000   -7
 D10     SK6812_EC15   LED_SK6812_EC15_1.5x1.5mm                     0.0000    -9.0000   90.0000     top   
 D11     SK6812_EC15   LED_SK6812_EC15_1.5x1.5mm                     4.5000    -7.7942   120.0000    top   
 D12     SK6812_EC15   LED_SK6812_EC15_1.5x1.5mm                     7.7942    -4.5000   150.0000    top   
+D13     1N4148W       D_SOD-923                                     8.7725    2.8500    0.0000      top   
 R1      330           R_0201_0603Metric_Pad0.64x0.40mm_HandSolder   8.9100    -1.6800   180.0000    top   
+R2      0             R_0201_0603Metric_Pad0.64x0.40mm_HandSolder   9.0000    2.0500    180.0000    top   
 ## End
