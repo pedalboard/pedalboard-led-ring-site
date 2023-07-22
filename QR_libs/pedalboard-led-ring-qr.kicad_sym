@@ -1,8 +1,12 @@
 (kicad_symbol_lib (version 20211014) (generator kibot)
   (symbol "QR_data" (pin_numbers hide) (pin_names hide) (in_bom no) (on_board yes)
     (property "Reference" "#QR" (at 0 8.75 0)
+      (effects (font (size 1.27 1.27)))
+
     )
     (property "Value" "QR_data" (at 0 -8.75 0)
+      (effects (font (size 1.27 1.27)))
+
     )
     (property "Footprint" "QR:QR_data" (at 0 -10.45 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1711,8 +1715,12 @@
   )
   (symbol "QR_kibot" (pin_numbers hide) (pin_names hide) (in_bom no) (on_board yes)
     (property "Reference" "#QR" (at 0 8.75 0)
+      (effects (font (size 1.27 1.27)))
+
     )
     (property "Value" "QR_kibot" (at 0 -8.75 0)
+      (effects (font (size 1.27 1.27)))
+
     )
     (property "Footprint" "QR:QR_kibot" (at 0 -10.45 0)
       (effects (font (size 1.27 1.27)) hide)

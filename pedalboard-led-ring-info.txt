@@ -1,7 +1,7 @@
 KiBot installation checker
 
 Core:
-Linux: 5.15.0.1039 (Linux 8d3942ea565a 5.15.0-1039-azure #46-Ubuntu SMP Mon May 22 15:18:07 UTC 2023 x86_64 GNU/Linux)
+Linux: 5.15.0.1041 (Linux 429ae5f3013b 5.15.0-1041-azure #48-Ubuntu SMP Tue Jun 20 20:34:08 UTC 2023 x86_64 GNU/Linux)
   /bin/uname
 Python: 3.9.2 (default, Feb 28 2021, 17:03:44)  [GCC 10.2.1 20210110]
   /usr/lib/python3.9/os.py
@@ -9,7 +9,7 @@ Python: 3.9.2 (default, Feb 28 2021, 17:03:44)  [GCC 10.2.1 20210110]
 KiCad: 7.0.5.1-1-g8f565ef7f0-dirty-deb11
   /usr/lib/python3/dist-packages/pcbnew.py
   /usr/bin/kicad
-Kibot: 1.6.2
+Kibot: 1.6.3
   /usr/lib/python3/dist-packages/kibot/__main__.py
   /usr/bin/kibot
 
@@ -51,11 +51,11 @@ Interactive HTML BoM: 2.6.0 (v2.6.0)
   /usr/bin/python3
 KiBoM: 1.9.0 (KiBOM Version: 1.9.0)
   /usr/bin/KiBOM_CLI.py
-KiCad Automation tools (kiauto): 2.2.5 (pcbnew_do 2.2.5 - Copyright 2018-2023, INTI/Productize SPRL - License: Apache)
+KiCad Automation tools (kiauto): 2.2.6 (pcbnew_do 2.2.6 - Copyright 2018-2023, INTI/Productize SPRL - License: Apache)
   /usr/bin/pcbnew_do
 KiCad PCB/SCH Diff (kidiff): 2.4.7 (kicad-diff.py 2.4.7 - Copyright 2020-2023, INTI/Salvador E. Tropea - License:)
   /usr/bin/kicad-diff.py
-KiCost: 1.1.17 (KiCost v1.1.17)
+KiCost: 1.1.18 (KiCost v1.1.18)
   /usr/bin/kicost
 KiKit: 1.3.0.7 (kikit, version 1.3.0-7)
   /usr/bin/kikit
@@ -124,6 +124,7 @@ KICAD7_3RD_PARTY
 KICAD7_FOOTPRINT_DIR
 KICAD7_SYMBOL_DIR
 KICAD7_TEMPLATE_DIR
+KICAD_USER_TEMPLATE_DIR
 KIPRJMOD
 KISYSMOD
 LC_CTYPE
@@ -139,7 +140,7 @@ RUNNER_WORKSPACE
 TZ
 
 KiAuto:
-This is KiAuto v2.2.5
+This is KiAuto v2.2.6
 Installed at: /usr/bin/pcbnew_do
 Using kiauto module from: /usr/lib/python3/dist-packages/kiauto
 Interpreted by Python: /usr/bin/python3 (v3.9.2 (default, Feb 28 2021, 17:03:44)  [GCC 10.2.1 20210110])

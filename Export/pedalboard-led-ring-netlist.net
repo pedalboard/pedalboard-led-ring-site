@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-led-ring/pedalboard-led-ring/pedalboard-led-ring.kicad_sch")
-    (date "Tue Jun 20 15:29:24 2023")
+    (date "Sat Jul 22 11:30:45 2023")
     (tool "Eeschema 7.0.5.1-1-g8f565ef7f0-dirty-deb11")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -191,7 +191,7 @@
     (comp (ref "D1")
       (value "SK6812_EC15")
       (footprint "Library:LED_SK6812_EC15_1.5x1.5mm")
-      (datasheet "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf")
+      (datasheet "http://www.normandled.com/upload/202112/SK9810-EC15%20LED%20Datasheet.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136"))
       (libsource (lib "pedalboard-led-ring") (part "SK6812") (description "RGB LED with integrated controller"))
@@ -205,7 +205,7 @@
     (comp (ref "D2")
       (value "SK6812_EC15")
       (footprint "Library:LED_SK6812_EC15_1.5x1.5mm")
-      (datasheet "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf")
+      (datasheet "http://www.normandled.com/upload/202112/SK9810-EC15%20LED%20Datasheet.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136"))
       (libsource (lib "pedalboard-led-ring") (part "SK6812") (description "RGB LED with integrated controller"))
@@ -219,7 +219,7 @@
     (comp (ref "D3")
       (value "SK6812_EC15")
       (footprint "Library:LED_SK6812_EC15_1.5x1.5mm")
-      (datasheet "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf")
+      (datasheet "http://www.normandled.com/upload/202112/SK9810-EC15%20LED%20Datasheet.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136"))
       (libsource (lib "pedalboard-led-ring") (part "SK6812") (description "RGB LED with integrated controller"))
@@ -233,7 +233,7 @@
     (comp (ref "D4")
       (value "SK6812_EC15")
       (footprint "Library:LED_SK6812_EC15_1.5x1.5mm")
-      (datasheet "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf")
+      (datasheet "http://www.normandled.com/upload/202112/SK9810-EC15%20LED%20Datasheet.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136"))
       (libsource (lib "pedalboard-led-ring") (part "SK6812") (description "RGB LED with integrated controller"))
@@ -247,7 +247,7 @@
     (comp (ref "D5")
       (value "SK6812_EC15")
       (footprint "Library:LED_SK6812_EC15_1.5x1.5mm")
-      (datasheet "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf")
+      (datasheet "http://www.normandled.com/upload/202112/SK9810-EC15%20LED%20Datasheet.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136"))
       (libsource (lib "pedalboard-led-ring") (part "SK6812") (description "RGB LED with integrated controller"))
@@ -261,7 +261,7 @@
     (comp (ref "D6")
       (value "SK6812_EC15")
       (footprint "Library:LED_SK6812_EC15_1.5x1.5mm")
-      (datasheet "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf")
+      (datasheet "http://www.normandled.com/upload/202112/SK9810-EC15%20LED%20Datasheet.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136"))
       (libsource (lib "pedalboard-led-ring") (part "SK6812") (description "RGB LED with integrated controller"))
@@ -275,7 +275,7 @@
     (comp (ref "D7")
       (value "SK6812_EC15")
       (footprint "Library:LED_SK6812_EC15_1.5x1.5mm")
-      (datasheet "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf")
+      (datasheet "http://www.normandled.com/upload/202112/SK9810-EC15%20LED%20Datasheet.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136"))
       (libsource (lib "pedalboard-led-ring") (part "SK6812") (description "RGB LED with integrated controller"))
@@ -289,7 +289,7 @@
     (comp (ref "D8")
       (value "SK6812_EC15")
       (footprint "Library:LED_SK6812_EC15_1.5x1.5mm")
-      (datasheet "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf")
+      (datasheet "http://www.normandled.com/upload/202112/SK9810-EC15%20LED%20Datasheet.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136"))
       (libsource (lib "pedalboard-led-ring") (part "SK6812") (description "RGB LED with integrated controller"))
@@ -303,7 +303,7 @@
     (comp (ref "D9")
       (value "SK6812_EC15")
       (footprint "Library:LED_SK6812_EC15_1.5x1.5mm")
-      (datasheet "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf")
+      (datasheet "http://www.normandled.com/upload/202112/SK9810-EC15%20LED%20Datasheet.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136"))
       (libsource (lib "pedalboard-led-ring") (part "SK6812") (description "RGB LED with integrated controller"))
@@ -317,7 +317,7 @@
     (comp (ref "D10")
       (value "SK6812_EC15")
       (footprint "Library:LED_SK6812_EC15_1.5x1.5mm")
-      (datasheet "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf")
+      (datasheet "http://www.normandled.com/upload/202112/SK9810-EC15%20LED%20Datasheet.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136"))
       (libsource (lib "pedalboard-led-ring") (part "SK6812") (description "RGB LED with integrated controller"))
@@ -331,7 +331,7 @@
     (comp (ref "D11")
       (value "SK6812_EC15")
       (footprint "Library:LED_SK6812_EC15_1.5x1.5mm")
-      (datasheet "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf")
+      (datasheet "http://www.normandled.com/upload/202112/SK9810-EC15%20LED%20Datasheet.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136"))
       (libsource (lib "pedalboard-led-ring") (part "SK6812") (description "RGB LED with integrated controller"))
@@ -345,7 +345,7 @@
     (comp (ref "D12")
       (value "SK6812_EC15")
       (footprint "Library:LED_SK6812_EC15_1.5x1.5mm")
-      (datasheet "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf")
+      (datasheet "http://www.normandled.com/upload/202112/SK9810-EC15%20LED%20Datasheet.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136"))
       (libsource (lib "pedalboard-led-ring") (part "SK6812") (description "RGB LED with integrated controller"))
@@ -443,7 +443,6 @@
       (property (name "Supplier") (value "https://www.digikey.ch/en/products/detail/gct/BF100-04-A-D-1-0640-L-C/16396866"))
       (property (name "Sheetname") (value ""))
       (property (name "Sheetfile") (value "pedalboard-led-ring.kicad_sch"))
-      (property (name "dnp"))
       (property (name "ki_description") (value "Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"))
       (property (name "ki_keywords") (value "connector"))
       (sheetpath (names "/") (tstamps "/"))
