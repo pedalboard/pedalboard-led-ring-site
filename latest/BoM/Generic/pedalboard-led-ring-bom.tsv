@@ -12,7 +12,7 @@ Row	Description	Part	References	Value	Footprint	Quantity Per PCB	Status	Datashee
 Project info:
 Schematic:	pedalboard-led-ring
 Variant:	default
-Revision:	1.0.0
+Revision:	1.1.0-RC1
 Date:	2023-05-29
 KiCad Version:	7.0.7-7.0.7~ubuntu23.04.1
 Statistics:

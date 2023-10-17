@@ -2,7 +2,7 @@ $HEADER
 GENCAD 1.4
 USER "pcbnew 7.0.7-7.0.7~ubuntu23.04.1"
 DRAWING "/__w/pedalboard-led-ring/pedalboard-led-ring/pedalboard-led-ring.kicad_pcb"
-REVISION "1.0.0 2023-05-29"
+REVISION "1.1.0-RC1 2023-05-29"
 UNITS INCH
 ORIGIN 0 0
 INTERTRACK 0
@@ -657,99 +657,43 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_MountingHole:MountingHole_2.2mm_M2"
-PART "MountingHole"
-PACKAGE "MountingHole:MountingHole_2.2mm_M2"
-
-DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_9"
-PART "SK6812_EC15"
-PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
-
-DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_7"
-PART "SK6812_EC15"
-PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
-
-DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_2"
-PART "1uF"
-PACKAGE "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-
-DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_8"
-PART "SK6812_EC15"
-PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
-
-DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_1"
-PART "SK6812_EC15"
-PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
-
-DEVICE "DEV_Diode_SMD:D_SOD-923"
-PART "1N4148W"
-PACKAGE "Diode_SMD:D_SOD-923"
-
-DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_5"
-PART "SK6812_EC15"
-PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
-
-DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_3"
-PART "1uF"
-PACKAGE "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-
-DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_4"
-PART "1uF"
-PACKAGE "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-
-DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_7"
-PART "1uF"
-PACKAGE "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-
-DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_4"
-PART "SK6812_EC15"
-PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
+DEVICE "DEV_Connector_PinSocket_2.00mm:PinSocket_2x02_P2.00mm_Vertical_SMD"
+PART "middle"
+PACKAGE "Connector_PinSocket_2.00mm:PinSocket_2x02_P2.00mm_Vertical_SMD"
 
 DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_0"
 PART "1uF"
 PACKAGE "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 
-DEVICE "DEV_Library:Actuator"
-PART "Actuator Hole"
-PACKAGE "Library:Actuator"
+DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_5"
+PART "SK6812_EC15"
+PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
 
-DEVICE "DEV_Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-PART "330"
-PACKAGE "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-
-DEVICE "DEV_Connector_PinSocket_2.00mm:PinSocket_2x02_P2.00mm_Vertical_SMD"
-PART "middle"
-PACKAGE "Connector_PinSocket_2.00mm:PinSocket_2x02_P2.00mm_Vertical_SMD"
-
-DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_1"
+DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_4"
 PART "1uF"
 PACKAGE "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 
-DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_2"
+DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_7"
 PART "SK6812_EC15"
 PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
+
+DEVICE "DEV_Library:Actuator"
+PART "Actuator Hole"
+PACKAGE "Library:Actuator"
 
 DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_0"
 PART "SK6812_EC15"
 PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
 
-DEVICE "DEV_Connector_PinSocket_2.00mm:PinSocket_2x02_P2.00mm_Vertical_SMD_0"
-PART "edge"
-PACKAGE "Connector_PinSocket_2.00mm:PinSocket_2x02_P2.00mm_Vertical_SMD"
-
-DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_5"
+DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_1"
 PART "1uF"
 PACKAGE "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-
-DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_10"
-PART "SK6812_EC15"
-PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
 
 DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_6"
 PART "SK6812_EC15"
 PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
 
-DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_8"
+DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_9"
 PART "1uF"
 PACKAGE "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 
@@ -757,11 +701,39 @@ DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_3"
 PART "SK6812_EC15"
 PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
 
-DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_6"
+DEVICE "DEV_Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+PART "0"
+PACKAGE "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+
+DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm"
+PART "SK6812_EC15"
+PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
+
+DEVICE "DEV_MountingHole:MountingHole_2.2mm_M2"
+PART "MountingHole"
+PACKAGE "MountingHole:MountingHole_2.2mm_M2"
+
+DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_2"
+PART "SK6812_EC15"
+PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
+
+DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_7"
 PART "1uF"
 PACKAGE "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 
-DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm"
+DEVICE "DEV_Diode_SMD:D_SOD-923"
+PART "1N4148W"
+PACKAGE "Diode_SMD:D_SOD-923"
+
+DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_1"
+PART "SK6812_EC15"
+PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
+
+DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_8"
+PART "SK6812_EC15"
+PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
+
+DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_9"
 PART "SK6812_EC15"
 PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
 
@@ -769,9 +741,37 @@ DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 PART "1uF"
 PACKAGE "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 
-DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_9"
+DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_8"
 PART "1uF"
 PACKAGE "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+
+DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_2"
+PART "1uF"
+PACKAGE "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+
+DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_10"
+PART "SK6812_EC15"
+PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
+
+DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_6"
+PART "1uF"
+PACKAGE "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+
+DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_5"
+PART "1uF"
+PACKAGE "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+
+DEVICE "DEV_Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder_3"
+PART "1uF"
+PACKAGE "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+
+DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_4"
+PART "SK6812_EC15"
+PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
+
+DEVICE "DEV_Connector_PinSocket_2.00mm:PinSocket_2x02_P2.00mm_Vertical_SMD_0"
+PART "edge"
+PACKAGE "Connector_PinSocket_2.00mm:PinSocket_2x02_P2.00mm_Vertical_SMD"
 $ENDDEVICES
 
 $SIGNALS
