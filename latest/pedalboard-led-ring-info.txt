@@ -1,0 +1,150 @@
+KiBot installation checker
+
+Core:
+Linux: 6.2.0.1014 (Linux c842c55d8dc3 6.2.0-1014-azure #14~22.04.1-Ubuntu SMP Wed Sep 13 16:15:26 UTC 2023 x86_64 GNU/Linux)
+  /usr/bin/uname
+Python: 3.11.2 (main, Mar 13 2023, 12:18:29) [GCC 12.2.0]
+  /usr/lib/python3.11/os.py
+  /usr/bin/python3
+KiCad: 7.0.8-7.0.8~ubuntu23.04.1
+  /usr/lib/python3/dist-packages/pcbnew.py
+  /usr/bin/kicad
+Kibot: 1.6.3
+  /usr/lib/python3/dist-packages/kibot/__main__.py
+  /usr/bin/kibot
+
+Modules:
+Colorama: 0.4.6
+  /usr/lib/python3/dist-packages/colorama/__init__.py
+LXML: 4.9.2
+  /usr/lib/python3/dist-packages/lxml/__init__.py
+Lark: 1.1.5
+  /usr/lib/python3/dist-packages/lark/__init__.py
+PyYAML: 6.0.0 (6.0)
+  /usr/lib/python3/dist-packages/yaml/__init__.py
+QRCodeGen: Ok
+  /usr/lib/python3/dist-packages/qrcodegen.py
+Requests: 2.28.1
+  /usr/lib/python3/dist-packages/requests/__init__.py
+XLSXWriter: 3.0.2
+  /usr/lib/python3/dist-packages/xlsxwriter/__init__.py
+Xvfbwrapper: Ok
+  /usr/lib/python3/dist-packages/xvfbwrapper.py
+markdown2: 2.4.1
+  /usr/lib/python3/dist-packages/markdown2.py
+mistune: 2.0.4
+  /usr/lib/python3/dist-packages/mistune/__init__.py
+numpy: 1.24.2
+  /usr/lib/python3/dist-packages/numpy/__init__.py
+
+Tools:
+Bash: 5.2.15 (GNU bash, version 5.2.15(1)-release (x86_64-pc-linux-gnu))
+  /usr/bin/bash
+Blender: 3.5.1 (Blender 3.5.1)
+  /usr/bin/blender
+Ghostscript: 10.0.0 (10.00.0)
+  /usr/bin/gs
+Git: 2.39.2 (git version 2.39.2)
+  /usr/bin/git
+ImageMagick: 6.9.11.60 (Version: ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org)
+  /usr/bin/convert
+Interactive HTML BoM: 2.7.0 (v2.7.0)
+  /usr/bin/python3
+KiBoM: 1.9.0 (KiBOM Version: 1.9.0)
+  /usr/bin/KiBOM_CLI.py
+KiCad Automation tools (kiauto): 2.2.7 (pcbnew_do 2.2.7 - Copyright 2018-2023, INTI/Productize SPRL - License: Apache)
+  /usr/bin/pcbnew_do
+KiCad PCB/SCH Diff (kidiff): 2.4.7 (kicad-diff.py 2.4.7 - Copyright 2020-2023, INTI/Salvador E. Tropea - License:)
+  /usr/bin/kicad-diff.py
+KiCost: 1.1.18 (KiCost v1.1.18)
+  /usr/bin/kicost
+KiKit: 1.4.0.1 (kikit, version 1.4.0-1)
+  /usr/bin/kikit
+OpenSCAD: 2021.1.0 (OpenSCAD version 2021.01)
+  /usr/bin/openscad
+Pandoc: 2.17.1.1 (pandoc 2.17.1.1)
+  /usr/bin/pandoc
+RAR: 6.20.0 (RAR 6.20   Copyright (c) 1993-2023 Alexander Roshal   17 Jan 2023)
+  /usr/bin/rar
+RSVG tools: 2.54.5 (rsvg-convert version 2.54.5)
+  /usr/bin/rsvg-convert
+Xvfb: Ok (xvfb-run)
+  /usr/bin/rsvg-convert
+
+Environment:
+CI
+GITHUB_ACTION
+GITHUB_ACTIONS
+GITHUB_ACTION_REF
+GITHUB_ACTION_REPOSITORY
+GITHUB_ACTOR
+GITHUB_ACTOR_ID
+GITHUB_API_URL
+GITHUB_BASE_REF
+GITHUB_ENV
+GITHUB_EVENT_NAME
+GITHUB_EVENT_PATH
+GITHUB_GRAPHQL_URL
+GITHUB_HEAD_REF
+GITHUB_JOB
+GITHUB_OUTPUT
+GITHUB_PATH
+GITHUB_REF
+GITHUB_REF_NAME
+GITHUB_REF_PROTECTED
+GITHUB_REF_TYPE
+GITHUB_REPOSITORY
+GITHUB_REPOSITORY_ID
+GITHUB_REPOSITORY_OWNER
+GITHUB_REPOSITORY_OWNER_ID
+GITHUB_RETENTION_DAYS
+GITHUB_RUN_ATTEMPT
+GITHUB_RUN_ID
+GITHUB_RUN_NUMBER
+GITHUB_SERVER_URL
+GITHUB_SHA
+GITHUB_STATE
+GITHUB_STEP_SUMMARY
+GITHUB_TRIGGERING_ACTOR
+GITHUB_WORKFLOW
+GITHUB_WORKFLOW_REF
+GITHUB_WORKFLOW_SHA
+GITHUB_WORKSPACE
+HOME
+HOSTNAME
+INTERACTIVE_HTML_BOM_NO_DISPLAY
+KICAD6_3RD_PARTY
+KICAD6_FOOTPRINT_DIR
+KICAD6_SYMBOL_DIR
+KICAD6_TEMPLATE_DIR
+KICAD7_3RD_PARTY
+KICAD7_FOOTPRINT_DIR
+KICAD7_SYMBOL_DIR
+KICAD7_TEMPLATE_DIR
+KICAD_USER_TEMPLATE_DIR
+KIPRJMOD
+KISYSMOD
+LC_CTYPE
+PATH
+PWD
+RUNNER_ARCH
+RUNNER_ENVIRONMENT
+RUNNER_NAME
+RUNNER_OS
+RUNNER_TEMP
+RUNNER_TOOL_CACHE
+RUNNER_WORKSPACE
+TZ
+
+KiAuto:
+This is KiAuto v2.2.7
+Installed at: /usr/bin/pcbnew_do
+Using kiauto module from: /usr/lib/python3/dist-packages/kiauto
+Interpreted by Python: /usr/bin/python3 (v3.11.2 (main, Mar 13 2023, 12:18:29) [GCC 12.2.0])
+Tools:
+- kicad: /usr/bin/kicad (v7.0.8-7.0.8~ubuntu23.04.1)
+- xdotool: /usr/bin/xdotool
+- recordmydesktop: /usr/bin/recordmydesktop
+- xsltproc: /usr/bin/xsltproc
+- xclip: /usr/bin/xclip
+- convert: /usr/bin/convert
