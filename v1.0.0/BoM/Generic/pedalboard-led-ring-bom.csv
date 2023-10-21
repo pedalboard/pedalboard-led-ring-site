@@ -1,0 +1,23 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,Supplier,Sim.Device,Sim.Pins
+1,Unpolarized capacitor,C,C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11 C12,1uF,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,12, ,https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf,https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097,,
+2,RGB LED with integrated controller,SK6812,D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12,SK6812_EC15,LED_SK6812_EC15_1.5x1.5mm,12, ,http://www.normandled.com/upload/202112/SK9810-EC15%20LED%20Datasheet.pdf,https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136,,
+3,"Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x02_Odd_Even,J2,edge,PinSocket_2x02_P2.00mm_Vertical_SMD,1, ,https://gct.co/files/drawings/bf100.pdf,https://www.digikey.ch/en/products/detail/gct/BF100-04-A-D-1-0640-L-C/16396866,,
+4,Resistor,R,R2,0,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,1, ,https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf,https://www.digikey.ch/en/products/detail/panasonic-electronic-components/ERJ-1GN0R00C/3982613,,
+5,Resistor,R,R1,330,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,1, ,https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/1242,https://www.digikey.ch/en/products/detail/panasonic-electronic-components/ERJ-1GNJ331C/2035775,,
+
+
+
+
+
+Project info:
+Schematic:,pedalboard-led-ring
+Variant:,default
+Revision:,1.0.0
+Date:,2023-05-29
+KiCad Version:,7.0.5.1-1-g8f565ef7f0-dirty-deb11
+Statistics:
+Component Groups:,7
+Component Count:,29 (29 SMD/ 0 THT)
+Fitted Components:,27 (27 SMD/ 0 THT)
+Number of PCBs:,1
+Total Components:,27
