@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-led-ring/pedalboard-led-ring/pedalboard-led-ring.kicad_sch")
-    (date "Fri Oct 20 09:28:31 2023")
+    (date "Sat Oct 21 09:14:30 2023")
     (tool "Eeschema 7.0.8-7.0.8~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -22,7 +22,7 @@
   (components
     (comp (ref "C1")
       (value "1uF")
-      (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
       (datasheet "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097"))
@@ -36,7 +36,7 @@
       (tstamps "3954de2d-ac7d-4238-82db-59f1908348d6"))
     (comp (ref "C2")
       (value "1uF")
-      (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
       (datasheet "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097"))
@@ -50,7 +50,7 @@
       (tstamps "241422ab-bf29-48f7-9dea-cdbff478129d"))
     (comp (ref "C3")
       (value "1uF")
-      (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
       (datasheet "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097"))
@@ -64,7 +64,7 @@
       (tstamps "fa28797b-ecf4-4883-a0c9-34cbba9fc6b0"))
     (comp (ref "C4")
       (value "1uF")
-      (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
       (datasheet "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097"))
@@ -78,7 +78,7 @@
       (tstamps "9c35060f-5765-4f15-b6d1-b2d5edeba676"))
     (comp (ref "C5")
       (value "1uF")
-      (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
       (datasheet "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097"))
@@ -92,7 +92,7 @@
       (tstamps "805b8140-70f9-4b60-bf76-89d93af5647a"))
     (comp (ref "C6")
       (value "1uF")
-      (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
       (datasheet "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097"))
@@ -106,7 +106,7 @@
       (tstamps "c98b5198-c8ae-4e0d-b2cb-3195b25c1531"))
     (comp (ref "C7")
       (value "1uF")
-      (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
       (datasheet "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097"))
@@ -120,7 +120,7 @@
       (tstamps "0cde74d5-277e-43d1-9d49-46b4c40b89f3"))
     (comp (ref "C8")
       (value "1uF")
-      (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
       (datasheet "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097"))
@@ -134,7 +134,7 @@
       (tstamps "885c5c27-aeeb-44c7-b1f9-e3454ca6bc0d"))
     (comp (ref "C9")
       (value "1uF")
-      (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
       (datasheet "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097"))
@@ -148,7 +148,7 @@
       (tstamps "6d86f42d-e58d-49ed-8c52-3d9b3850668a"))
     (comp (ref "C10")
       (value "1uF")
-      (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
       (datasheet "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097"))
@@ -162,7 +162,7 @@
       (tstamps "c14d5878-c8c7-4161-b0f5-68a24afdc3bf"))
     (comp (ref "C11")
       (value "1uF")
-      (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
       (datasheet "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097"))
@@ -176,7 +176,7 @@
       (tstamps "8b25c7ff-3dee-46e0-a356-ffb55a76cf97"))
     (comp (ref "C12")
       (value "1uF")
-      (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
       (datasheet "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097"))
@@ -406,7 +406,7 @@
       (sheetpath (names "/") (tstamps "/"))
       (tstamps "8ed33960-f068-4d21-bc9e-95dfcf570ba7"))
     (comp (ref "J1")
-      (value "middle")
+      (value "02x02")
       (footprint "Connector_PinSocket_2.00mm:PinSocket_2x02_P2.00mm_Vertical_SMD")
       (datasheet "https://gct.co/files/drawings/bf100.pdf")
       (fields
@@ -431,7 +431,7 @@
       (tstamps "7069ca1d-2e71-4069-8d39-496236959502"))
     (comp (ref "R1")
       (value "330")
-      (footprint "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
       (datasheet "https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/1242")
       (fields
         (field (name "Supplier") "https://www.digikey.ch/en/products/detail/panasonic-electronic-components/ERJ-1GNJ331C/2035775"))
