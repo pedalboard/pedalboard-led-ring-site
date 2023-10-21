@@ -1,8 +1,8 @@
 Row	Description	Part	References	Value	Footprint	Quantity Per PCB	Status	Datasheet	Supplier	Sim.Device	Sim.Pins
-1	Unpolarized capacitor	C	C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11 C12	1uF	C_0402_1005Metric	12	 	https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf	https://www.digikey.ch/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNH/3894097		
-2	RGB LED with integrated controller	SK6812	D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12	SK6812_EC15	LED_SK6812_EC15_1.5x1.5mm	12	 	http://www.normandled.com/upload/202112/SK9810-EC15%20LED%20Datasheet.pdf	https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136		
-3	Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)	Conn_02x02_Odd_Even	J1	02x02	PinSocket_2x02_P2.00mm_Vertical_SMD	1	 	https://gct.co/files/drawings/bf100.pdf	https://www.digikey.ch/en/products/detail/gct/BF100-04-A-D-1-0640-L-C/16396866		
-4	Resistor	R	R1	330	R_0402_1005Metric	1	 	https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/1242	https://www.digikey.ch/en/products/detail/panasonic-electronic-components/ERJ-1GNJ331C/2035775		
+1	Unpolarized capacitor	C	C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11 C12	1uF	C_0402_1005Metric	12	 	https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf	https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL05A105KP5NNNC/3886734		
+2	RGB LED with integrated controller	SK6812	D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12	SK6812_EC15	LED_SK6812_EC15_1.5x1.5mm	12	 	https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2384/CL05A105KP5NNN_Specsheet%20(1).pdf	https://www.digikey.ch/en/products/detail/adafruit-industries-llc/4492/11569136		
+3	Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)	Conn_02x02_Odd_Even	J1	02x02	PinSocket_2x02_P2.00mm_Vertical_SMD	1	 	https://www.we-online.com/components/products/datasheet/621004242921.pdf	https://www.digikey.ch/en/products/detail/w%C3%BCrth-elektronik/621004242921/15672146		
+4	Resistor	R	R1	330	R_0402_1005Metric	1	 	https://www.passivecomponent.com/wp-content/uploads/chipR/ASC_WR.pdf	https://www.digikey.ch/en/products/detail/walsin-technology-corporation/WR04X3300FTL/13239224		
 
 
 
