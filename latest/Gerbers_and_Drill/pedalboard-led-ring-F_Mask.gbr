@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.8-7.0.8~ubuntu23.04.1*%
-%TF.CreationDate,2023-10-21T09:14:23+00:00*%
+%TF.CreationDate,2023-10-21T15:35:35+00:00*%
 %TF.ProjectId,pedalboard-led-ring,70656461-6c62-46f6-9172-642d6c65642d,1.1.0-RC1*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.8-7.0.8~ubuntu23.04.1) date 2023-10-21 09:14:23*
+G04 Created by KiCad (PCBNEW 7.0.8-7.0.8~ubuntu23.04.1) date 2023-10-21 15:35:35*
 %MOMM*%
 %LPD*%
 G01*
@@ -220,5 +220,9 @@ D32*
 %TO.C,C3*%
 X83440000Y-51084308D03*
 X82960000Y-51915692D03*
+%TD*%
+D10*
+%TO.C,FID3*%
+X69000000Y-60000000D03*
 %TD*%
 M02*

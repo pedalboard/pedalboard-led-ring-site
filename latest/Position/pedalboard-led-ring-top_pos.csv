@@ -26,4 +26,5 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "D13","1N4148W","D_SOD-923",8.8500,2.8500,90.0000,top
 "FID1","Fiducial","Fiducial_0.5mm_Mask1mm",0.0000,11.0000,0.0000,top
 "FID2","Fiducial","Fiducial_0.5mm_Mask1mm",0.0000,-11.0000,0.0000,top
+"FID3","Fiducial","Fiducial_0.5mm_Mask1mm",-11.0000,0.0000,0.0000,top
 "R1","330","R_0402_1005Metric",8.9100,-1.6500,180.0000,top

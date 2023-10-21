@@ -25,5 +25,6 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "D12","SK6812_EC15","LED_SK6812_EC15_1.5x1.5mm",7.7942,-4.5000,150.0000,top
 "FID1","Fiducial","Fiducial_0.5mm_Mask1mm",0.0000,11.0000,0.0000,top
 "FID2","Fiducial","Fiducial_0.5mm_Mask1mm",0.0000,-11.0000,0.0000,top
+"FID3","Fiducial","Fiducial_0.5mm_Mask1mm",-11.0000,0.0000,0.0000,top
 "J1","02x02","PinSocket_2x02_P2.00mm_Vertical_SMD",10.0000,0.0000,90.0000,bottom
 "R1","330","R_0402_1005Metric",8.9100,-1.6500,180.0000,top

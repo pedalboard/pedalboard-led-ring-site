@@ -137,6 +137,9 @@
 <path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 83.7272,50.9268 83.7683,50.9628 83.7925,51.0118 83.7960,51.0663 83.7785,51.1181 83.6385,51.3606 83.6025,51.4016 83.5535,51.4258 83.4990,51.4294 83.4472,51.4118 83.1528,51.2418 83.1117,51.2058 83.0875,51.1568 83.0840,51.1023 83.1015,51.0506 83.2415,50.8081 83.2775,50.7670 83.3265,50.7428 83.3810,50.7393 83.4328,50.7568 Z"/> 
 <path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 83.2472,51.7582 83.2883,51.7942 83.3125,51.8432 83.3160,51.8977 83.2985,51.9494 83.1585,52.1919 83.1225,52.2330 83.0735,52.2572 83.0190,52.2607 82.9672,52.2432 82.6728,52.0732 82.6317,52.0372 82.6075,51.9882 82.6040,51.9337 82.6215,51.8819 82.7615,51.6394 82.7975,51.5984 82.8465,51.5742 82.9010,51.5706 82.9528,51.5882 Z"/> 
 </g>
+<g style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
+<circle cx="69.0000" cy="60.0000" r="0.5000"/> 
+</g>
 </g> 
 </mask></defs><g transform="" id="boardContainer"><g id="substrate" clip-path="url(#cut-off)" mask="url(#pads-mask-silkscreen)"><g id="substrate-board" style="fill:#143324; fill-opacity:0.25098039215686274; stroke:#143324; stroke-width:0;"><path d=" M 80.0000 60.0000 m-6.1000 0 a 6.1000 6.1000 0 1 0 12.2 0 a 6.1000 6.1000 0 1 0 -12.2 0  M 90.0627 66.5378 L 92.0 65.0 L 92.0 55.0 L 90.3275 53.8891 A 12 12 0 0 0 80.0 48.0 A 12 12 0 0 0 80.0 72.0 A 12 12 0 0 0 90.0627 66.5378 " style="fill-rule: evenodd;"/><g style="fill-opacity: 0.0;stroke-width: 0.1000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
 <path d="M80.0000 72.0000 A12.0000 12.0000 0.0 0 0 90.0627 66.5378"/>
