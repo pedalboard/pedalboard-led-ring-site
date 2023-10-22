@@ -663,19 +663,15 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric_1"
+DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_1"
+PART "SK6812_EC15"
+PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
+
+DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric_2"
 PART "1uF"
 PACKAGE "Capacitor_SMD:C_0402_1005Metric"
 
-DEVICE "DEV_Fiducial:Fiducial_0.5mm_Mask1mm"
-PART "Fiducial"
-PACKAGE "Fiducial:Fiducial_0.5mm_Mask1mm"
-
-DEVICE "DEV_Library:Actuator"
-PART "Actuator Hole"
-PACKAGE "Library:Actuator"
-
-DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_9"
+DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_7"
 PART "SK6812_EC15"
 PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
 
@@ -687,45 +683,21 @@ DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric_7"
 PART "1uF"
 PACKAGE "Capacitor_SMD:C_0402_1005Metric"
 
-DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_7"
-PART "SK6812_EC15"
-PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
-
-DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_3"
-PART "SK6812_EC15"
-PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
-
-DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_8"
-PART "SK6812_EC15"
-PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
-
 DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_6"
 PART "SK6812_EC15"
 PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
 
-DEVICE "DEV_Connector_PinSocket_2.00mm:PinSocket_2x02_P2.00mm_Vertical_SMD"
-PART "02x02"
-PACKAGE "Connector_PinSocket_2.00mm:PinSocket_2x02_P2.00mm_Vertical_SMD"
+DEVICE "DEV_Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
+PART "SJ"
+PACKAGE "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 
-DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric_9"
-PART "1uF"
-PACKAGE "Capacitor_SMD:C_0402_1005Metric"
+DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_5"
+PART "SK6812_EC15"
+PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
 
-DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric_4"
-PART "1uF"
-PACKAGE "Capacitor_SMD:C_0402_1005Metric"
-
-DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric_8"
-PART "1uF"
-PACKAGE "Capacitor_SMD:C_0402_1005Metric"
-
-DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric_3"
-PART "1uF"
-PACKAGE "Capacitor_SMD:C_0402_1005Metric"
-
-DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric_5"
-PART "1uF"
-PACKAGE "Capacitor_SMD:C_0402_1005Metric"
+DEVICE "DEV_Library:Actuator"
+PART "Actuator Hole"
+PACKAGE "Library:Actuator"
 
 DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric_6"
 PART "1uF"
@@ -735,15 +707,15 @@ DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_10"
 PART "SK6812_EC15"
 PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
 
-DEVICE "DEV_Diode_SMD:D_SOD-923"
-PART "1N4148W"
-PACKAGE "Diode_SMD:D_SOD-923"
+DEVICE "DEV_Connector_PinSocket_2.00mm:PinSocket_2x02_P2.00mm_Vertical_SMD"
+PART "02x02"
+PACKAGE "Connector_PinSocket_2.00mm:PinSocket_2x02_P2.00mm_Vertical_SMD"
 
-DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric_2"
+DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric_1"
 PART "1uF"
 PACKAGE "Capacitor_SMD:C_0402_1005Metric"
 
-DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric"
+DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric_9"
 PART "1uF"
 PACKAGE "Capacitor_SMD:C_0402_1005Metric"
 
@@ -751,11 +723,35 @@ DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_0"
 PART "SK6812_EC15"
 PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
 
-DEVICE "DEV_Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
-PART "SJ"
-PACKAGE "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
+DEVICE "DEV_Fiducial:Fiducial_0.5mm_Mask1mm"
+PART "Fiducial"
+PACKAGE "Fiducial:Fiducial_0.5mm_Mask1mm"
 
-DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_1"
+DEVICE "DEV_Diode_SMD:D_SOD-923"
+PART "1N4148W"
+PACKAGE "Diode_SMD:D_SOD-923"
+
+DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric_4"
+PART "1uF"
+PACKAGE "Capacitor_SMD:C_0402_1005Metric"
+
+DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_2"
+PART "SK6812_EC15"
+PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
+
+DEVICE "DEV_Resistor_SMD:R_0402_1005Metric"
+PART "330"
+PACKAGE "Resistor_SMD:R_0402_1005Metric"
+
+DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm"
+PART "SK6812_EC15"
+PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
+
+DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric_3"
+PART "1uF"
+PACKAGE "Capacitor_SMD:C_0402_1005Metric"
+
+DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_9"
 PART "SK6812_EC15"
 PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
 
@@ -763,19 +759,23 @@ DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric_0"
 PART "1uF"
 PACKAGE "Capacitor_SMD:C_0402_1005Metric"
 
-DEVICE "DEV_Resistor_SMD:R_0402_1005Metric"
-PART "330"
-PACKAGE "Resistor_SMD:R_0402_1005Metric"
-
-DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_2"
+DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_8"
 PART "SK6812_EC15"
 PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
 
-DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_5"
-PART "SK6812_EC15"
-PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
+DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric_5"
+PART "1uF"
+PACKAGE "Capacitor_SMD:C_0402_1005Metric"
 
-DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm"
+DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric_8"
+PART "1uF"
+PACKAGE "Capacitor_SMD:C_0402_1005Metric"
+
+DEVICE "DEV_Capacitor_SMD:C_0402_1005Metric"
+PART "1uF"
+PACKAGE "Capacitor_SMD:C_0402_1005Metric"
+
+DEVICE "DEV_Library:LED_SK6812_EC15_1.5x1.5mm_3"
 PART "SK6812_EC15"
 PACKAGE "Library:LED_SK6812_EC15_1.5x1.5mm"
 $ENDDEVICES
