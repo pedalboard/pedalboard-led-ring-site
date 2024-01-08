@@ -1,9 +1,9 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-led-ring/pedalboard-led-ring/pedalboard-led-ring.kicad_sch")
-    (date "Mon Jan  8 21:35:13 2024")
+    (date "Mon Jan  8 21:39:18 2024")
     (tool "Eeschema 7.0.9-7.0.9~ubuntu23.04.1")
-    (textvar (name "GIT_HASH") "460069b")
+    (textvar (name "GIT_HASH") "fd4257d")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
         (title "Pedalboard neopixel ring")
@@ -13,7 +13,7 @@
         (source "pedalboard-led-ring.kicad_sch")
         (comment (number "1") (value "Source Code: https://github.com/pedalboard/pedalboard-neopixel-ring"))
         (comment (number "2") (value "License: CERN Open Hardware Licence Version 2 - Permissive"))
-        (comment (number "3") (value "Git commit: {GIT_HASH}"))
+        (comment (number "3") (value "Git commit: fd4257d"))
         (comment (number "4") (value ""))
         (comment (number "5") (value ""))
         (comment (number "6") (value ""))
