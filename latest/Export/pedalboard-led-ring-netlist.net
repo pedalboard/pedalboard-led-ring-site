@@ -1,9 +1,9 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-led-ring/pedalboard-led-ring/pedalboard-led-ring.kicad_sch")
-    (date "Mon Jan  8 21:15:49 2024")
+    (date "Mon Jan  8 21:35:13 2024")
     (tool "Eeschema 7.0.9-7.0.9~ubuntu23.04.1")
-    (textvar (name "GIT_HASH") "ba03a3b")
+    (textvar (name "GIT_HASH") "460069b")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
         (title "Pedalboard neopixel ring")
