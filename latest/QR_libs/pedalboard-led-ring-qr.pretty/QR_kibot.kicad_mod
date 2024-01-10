@@ -1,5 +1,5 @@
 (module QR_kibot (layer F.SilkS) (tedit 0)
-  (attr virtual)
+  (attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
   (fp_text reference "QR***" (at 0 8.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

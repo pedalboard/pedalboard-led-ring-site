@@ -36,6 +36,10 @@
       (effects (font (size 1.27 1.27)) hide)
 
     )
+    (property "Sim.Enable" "0" (at 0 -22.35 0)
+      (effects (font (size 1.27 1.27)) hide)
+
+    )
     (rectangle (start -7.5 7.5) (end -6.98 6.98)
       (stroke (width 0.001) (type default))
       (fill (type outline))
@@ -1739,6 +1743,10 @@
 
     )
     (property "qr_text" "https://github.com/INTI-CMNB/KiBot/" (at 0 -20.65 0)
+      (effects (font (size 1.27 1.27)) hide)
+
+    )
+    (property "Sim.Enable" "0" (at 0 -22.35 0)
       (effects (font (size 1.27 1.27)) hide)
 
     )
